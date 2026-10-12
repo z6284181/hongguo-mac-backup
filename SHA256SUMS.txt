@@ -1,0 +1,9 @@
+846c8baea88d1450300c6203f4b95acb66e9d72c189ff5011dedc52960ed1541  Hongguo-1.2.1-mac-arm64.dmg
+fe1909e93b80779fb0cc5fd6480d2c3b7b22acd7546fb6f75244dac136fd7b01  Hongguo-1.2.1-mac-x64.dmg
+6d13491694b439c79870109fb898f75f08599bef0db613faefbc6975c25f35df  hongguo-downloader-1.2.1-win-x64.exe
+ed2a00f7a6c79e847de000aca3398525d415efd1ac3163646ae5080edb9b9bf4  hongguo-downloader-1.2.1-win-x64.zip
+dd78e829d9b48c871e7096b4ad9da89b90cb699934248a795bc028536d43b12d  hongguo-downloader-1.2.1-windows-source.zip
+0c4ef810b738466579e44ad67b07fbf9c5701afc13d16c06223ee4e6d86ead81  hongguo-drama-1.2.1-source.zip
+bfcac890fe098e27bd1cdc4209837377ecaae3bea4fc5b1ea197ec4ab1c2b2e9  ffmpeg-9.0.2-x264-b35605a-corresponding-source.tar.gz
+ad68bf181e6bcc8609bcfad68a4a1c071b046af7743fd21b4e645132080eba60  ffmpeg-9.0.2-x264-b35605a-x64-corresponding-source.tar.gz
+bbb5368e063aa322440e159f93ac1b5e17f6f3cac6d7a428e12ba96de18d8bfa  ffmpeg-9.0.2-x264-b35605a-win-x64-corresponding-source.tar.gz
